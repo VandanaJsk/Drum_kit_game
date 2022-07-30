@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+    background-color: #272731;
+}
+
+.set{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+#title{
+   text-align: center;
+   color: white;
+   margin-top: 70px;
+   font-size: 4.5rem;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: rgb(231, 68, 95);
+}
+
+button{
+    border: 7px solid white;
+    color: white;
+    padding: 25px 35px;
+    margin: 10px 10px;
+    font-size: 3rem;
+    background-color: rgb(232, 64, 92);
+    border-radius: 8px;
+    font-weight: 700;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(219, 62, 88);
+}
+
+.w{
+  background-image: url('images/drumw.png');
+}
+
+.a{
+    background-image: url('images/druma.png');
+}
+
+.s{
+    background-image: url('images/drums.png');
+}
+
+.d{
+    background-image: url('images/drumd.png');
+}
+
+.j{
+    background-image: url('images/drumj.png');
+}
+
+.k{
+    background-image: url('images/drumk.png');
+}
+
+.l{
+    background-image: url('images/druml.png');
+}
